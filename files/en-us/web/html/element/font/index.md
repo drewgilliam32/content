@@ -1,4 +1,4 @@
----
+-debug
 title: <font>
 slug: Web/HTML/Element/font
 tags:
@@ -42,3 +42,4 @@ This element implements the {{domxref("HTMLFontElement")}} interface.
 {{Compat}}
 
 {{HTMLRef}}
+Fonts](/en-US/docs/Web/CSS/CSS_Fonts)
